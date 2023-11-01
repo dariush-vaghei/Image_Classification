@@ -1,11 +1,11 @@
 # Image Classification
 A python implementation of image classification using Convolutional Neural Networks (CNNs) on the CIFAR-10 dataset. It demonstrates how to load the dataset, create a CNN model, train it, and make predictions.
 ### Prerequisites
--- TensorFlow
--- Keras
--- Matplotlib
--- NumPy
--- scikit-image
+- TensorFlow
+- Keras
+- Matplotlib
+- NumPy
+- scikit-image
 ## Steps
 * Data loading and preprocessing:
   * Loading the CIFAR-10 dataset.
