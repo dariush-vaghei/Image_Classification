@@ -12,7 +12,7 @@ A python implementation of image classification using Convolutional Neural Netwo
   * Preprocessing the data, including normalization.
 * Model creation:
   * Building a Convolutional Neural Network (CNN).
-  * Configuring convolutional layers, max-pooling, snd dense layers.
+  * Configuring convolutional layers, max-pooling, and dense layers.
 * Model training:
   * Defining training parameters (e.g., epochs, batch size).
   * Training the CNN on the training dataset.
